@@ -1,0 +1,1 @@
+This project focuses on solving Captcha challenges using a novel approach for file retrieval, dataset generation, preprocessing, and classification of Captcha images. We utilized Python for image retrieval and processing, TensorFlow for training neural networks, and Raspberry Pi for classification tasks.
